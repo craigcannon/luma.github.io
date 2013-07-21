@@ -6821,3 +6821,13 @@ a.thumbnail:hover {
 .top-spacing {
   margin-top: 15%;
 }
+
+.gif {
+  width:70%; 
+  height: auto;
+}
+
+.logo {
+  width:75%; 
+  height: auto;
+}

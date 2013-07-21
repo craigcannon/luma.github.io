@@ -950,6 +950,9 @@
 }
 
 @media (max-width: 979px) {
+  .responsive-top {
+    margin-top: 15%;
+  }
   body {
     padding-top: 0;
   }
