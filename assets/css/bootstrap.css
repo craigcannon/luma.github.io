@@ -1096,7 +1096,7 @@ input[type="color"],
   height: 20px;
   padding: 4px 6px;
   margin-bottom: 10px;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 20px;
   color: #bbbbbb;
   vertical-align: middle;
@@ -6838,7 +6838,14 @@ a.thumbnail:hover {
   margin-top: 2%;
   text-align: center;
   color: #555555;
-  padding: 2px 6px 3px;
+  padding: 5px 10px 6px;
   border: 0px outset buttonface;
   background-color: buttonface;
+  font-size: 18px;
 }
+
+.mcform {
+  font-size: 18px;
+}
+
+
