@@ -950,6 +950,10 @@
 }
 
 @media (max-width: 979px) {
+  .jumbotron h1 {
+    font-size: 40px;
+  }
+
   .responsive-top {
     margin-top: 15%;
   }
